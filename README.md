@@ -9,7 +9,7 @@ They include: Cuba, Lebanon, Turkmenistan, Afghanistan, Guam, Aruba, Bhutan, Nor
 
 Two fields were introduced in the dataset for insights i.e., 
 
-    1. Growth Status- separates countries that had positive growth **(x>0.00%)** from those that didn't (x<0.00%)
+    1. Growth Status- separates countries that had positive growth (x>0.00%) from those that didn't (x<0.00%)
     
     2. Growth Rate Category- has countries that grew with 2 digits (x>=10) as 'High Growth Rate', 
         those with (0<x<10) as 'Moderate Growth Rate' and (x<0) as Low Growth Rate.
