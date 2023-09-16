@@ -8,9 +8,11 @@ Some countries are omitted as there was no confirmed GDP data by the  Worldbank.
 They include: Cuba, Lebanon, Turkmenistan, Afghanistan, Guam, Aruba, Bhutan, Northern Mariana Islands, American Samoa, Tonga and Palau.
 
 Two fields were introduced in the dataset for insights i.e., 
+
     1. Growth Status- separates countries that had positive growth **(x>0.00%)** from those that didn't **(x<0.00%)**
     
-    2. Growth Rate Category- has countries that grew with 2 digits (x>=10) as 'High Growth Rate', those with (0<x<10) as 'Moderate Growth Rate' and (x<0) as Low Growth Rate.
+    2. Growth Rate Category- has countries that grew with 2 digits (x>=10) as 'High Growth Rate', those with (0<x<10) as 'Moderate Growth Rate' 
+        and (x<0) as Low Growth Rate.
 
 The other fields are:
   1.Country
