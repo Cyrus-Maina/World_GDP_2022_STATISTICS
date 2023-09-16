@@ -15,7 +15,8 @@ Two fields were introduced in the dataset for insights i.e.,
         and (x<0) as Low Growth Rate.
 
 The other fields are:
-  1.Country
+
+  1. Country
   
   2. GDP (nominal, 2022)- income gained from production of goods and services the year 2022
  
@@ -27,17 +28,17 @@ The other fields are:
  
   6. GDP per capita- measure from GDP divided by Population. It shows average living standards of the citizens.
  
-  7.Share of World GDP (%)- country's GDP divided by total World GDP
+  7. Share of World GDP (%)- country's GDP divided by total World GDP
 
 Sevral statistical operations were performed to deduct insights e.g., 
  
-  1.Covariance- shows what degree of variance is caused by a variable to another.
+  1. Covariance- shows what degree of variance is caused by a variable to another.
  
-  2.Correlation- deducts types of relationships between varialbles e.g., positive/negative.
+  2. Correlation- deducts types of relationships between varialbles e.g., positive/negative.
  
-  3.Descriptive analysis- gives all central measures of tendency
+  3. Descriptive analysis- gives all central measures of tendency
 
-  4.Linear Regression- OLS method was used to deduct what percentage of GDP can be foreseen using Population.
+  4. Linear Regression- OLS method was used to deduct what percentage of GDP can be foreseen using Population.
 
 **INSIGHTS**
 
