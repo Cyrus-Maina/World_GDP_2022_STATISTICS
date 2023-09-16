@@ -71,15 +71,15 @@ Sevral statistical operations were performed to deduct insights e.g.,
 3. Sudan's and Libya's negative gowth rate can be attributed to the ongoing Civil Wars.
 
 4. African countries may have high populations but report low GDP Per Capita as their populations are growing faster than their GDP.
-   Their GDP might still be low due to low technological advancements, rampant corruption, poor governance, low value addition on their resources and  little to no exploitation of resources.
+   Their GDP might still be low due to low technological advancements, rampant corruption, poor governance, low value addition on their resources and  little to no exploitation of           resources.
    
-5.Majority of African countries have little industrialization and depend heavily on sustenance farming.
+5. Majority of African countries have little industrialization and depend heavily on sustenance farming.
    
 6. India and China have their population in billions but their high technological advancements and solid financial reforms have made their GDP values to catapault into Trillions.
 
 7. Population can impact GDP Per Capita positively or negatively depending on Governance of the country.
 
-8.Countries with high GDP Per capita are reportedly strong financial powerhouses e.g. Switzerland and Luxembourg and heavy energy exporters like Norway. 
+8. Countries with high GDP Per capita are reportedly strong financial powerhouses e.g. Switzerland and Luxembourg and heavy energy exporters like Norway. 
   Luxembourg reportedly has 155 different Banks and Banking is their strongest economy sector.
 
-9.Huge offshore oil discoveries have shot Guyana's economy to record growths,57.8% suggesting oil is a heavy ecoomic driver.
+9. Huge offshore oil discoveries have shot Guyana's economy to record growths,57.8% suggesting oil is a heavy ecoomic driver.
